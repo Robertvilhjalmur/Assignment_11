@@ -4,7 +4,7 @@ import numpy as np
 import sys
 from pathlib import Path
 
-# Add src directory to path if using nested structure
+
 sys.path.append(str(Path(__file__).parent.parent / 'src'))
 
 from feature_engineering import FeatureEngineer

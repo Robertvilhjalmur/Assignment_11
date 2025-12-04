@@ -1,0 +1,14 @@
+{
+    "LogisticRegression": {
+        "test_accuracy": 0.512,
+        "test_f1": 0.33695652173913043,
+        "test_roc_auc": 0.49670062143635074,
+        "cv_accuracy": 0.4558375634517766
+    },
+    "RandomForestClassifier": {
+        "test_accuracy": 0.532,
+        "test_f1": 0.48,
+        "test_roc_auc": 0.5217502722788135,
+        "cv_accuracy": 0.4030456852791878
+    }
+}
