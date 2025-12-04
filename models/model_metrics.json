@@ -10,5 +10,11 @@
         "test_f1": 0.48,
         "test_roc_auc": 0.5217502722788135,
         "cv_accuracy": 0.4030456852791878
+    },
+    "XGBClassifier": {
+        "test_accuracy": 0.496,
+        "test_f1": 0.496,
+        "test_roc_auc": 0.4880517650073675,
+        "cv_accuracy": 0.41624365482233505
     }
 }

@@ -1,0 +1,72 @@
+{
+    "LogisticRegression": {
+        "total_return": -0.10449140521843203,
+        "annualized_return": -0.5255262727315357,
+        "volatility": 1.7547573120338174,
+        "sharpe_ratio": -0.2994865837729063,
+        "max_drawdown": -0.9049278347515344,
+        "num_trades": 6,
+        "win_rate": 66.66666666666666,
+        "avg_gain": 26.175315130142163,
+        "avg_loss": -7.184315019416688,
+        "avg_gain_pct": 2.8871715541439578,
+        "avg_loss_pct": -0.7312200184044881,
+        "profit_factor": 7.286794930177603
+    },
+    "RandomForestClassifier": {
+        "total_return": -0.20209336009147094,
+        "annualized_return": -1.014401026740197,
+        "volatility": 1.7513676004622274,
+        "sharpe_ratio": -0.5792050889102166,
+        "max_drawdown": -0.9024024966433397,
+        "num_trades": 46,
+        "win_rate": 52.17391304347826,
+        "avg_gain": 7.597387359640218,
+        "avg_loss": -7.145221636021386,
+        "avg_gain_pct": 0.9004631027976292,
+        "avg_loss_pct": -0.8183190391668038,
+        "profit_factor": 1.1599442760468799
+    },
+    "XGBClassifier": {
+        "total_return": -0.7230394042727628,
+        "annualized_return": -3.5912833267181754,
+        "volatility": 1.9545673852984873,
+        "sharpe_ratio": -1.83738015569606,
+        "max_drawdown": -1.2850062801919915,
+        "num_trades": 55,
+        "win_rate": 43.63636363636363,
+        "avg_gain": 7.826256865433283,
+        "avg_loss": -7.450016585447622,
+        "avg_gain_pct": 0.9884303744998592,
+        "avg_loss_pct": -0.8907441507495203,
+        "profit_factor": 0.8132918234133869
+    },
+    "ensemble": {
+        "total_return": -0.22916343117067584,
+        "annualized_return": -1.1496495577408061,
+        "volatility": 2.0320070106422614,
+        "sharpe_ratio": -0.5657704681724663,
+        "max_drawdown": -0.9747916750312946,
+        "num_trades": 40,
+        "win_rate": 50.0,
+        "avg_gain": 9.50339797221548,
+        "avg_loss": -8.381786004421437,
+        "avg_gain_pct": 1.137103391830593,
+        "avg_loss_pct": -0.9747204645957437,
+        "profit_factor": 1.1338153905626303
+    },
+    "Buy-and-Hold": {
+        "total_return": -2.1973535246700315,
+        "annualized_return": -10.593919194397639,
+        "volatility": 6.215842715304457,
+        "sharpe_ratio": -1.7043415799942325,
+        "max_drawdown": -3.8483522618022237,
+        "num_trades": 0,
+        "win_rate": 0,
+        "avg_gain": 0,
+        "avg_loss": 0,
+        "avg_gain_pct": 0,
+        "avg_loss_pct": 0,
+        "profit_factor": 0
+    }
+}
