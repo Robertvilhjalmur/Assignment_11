@@ -84,3 +84,6 @@ python tests/test_backtest.py
 ## Notes
 
 This is a class project. The backtest period is short (60 days) and doesn't include transaction costs. Not intended for actual trading.
+
+## Reference
+Claude Sonnet 4.5 used in this project.
